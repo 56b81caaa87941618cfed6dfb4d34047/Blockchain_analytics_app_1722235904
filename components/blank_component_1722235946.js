@@ -17,16 +17,16 @@ Vue.component("blank_component_1722235946", {
             <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
             <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
             <div class="grid">
-                <div id="sidebar" class="flex-1 bg-gray-100 dark:bg-gray-800 h-screen p-5">
+                <div id="sidebar" class="flex-1 bg-gray-900 dark:bg-gray-950 h-screen p-5">
                     <nav>
                         <ul class="space-y-4">
-                            <li><a href="#" class="flex items-center text-gray-700 dark:text-gray-200 hover:text-blue-500"><i class='bx bx-home mr-2'></i> Home</a></li>
-                            <li><a href="#" class="flex items-center text-gray-700 dark:text-gray-200 hover:text-blue-500"><i class='bx bx-info-circle mr-2'></i> About</a></li>
-                            <li><a href="#" class="flex items-center text-gray-700 dark:text-gray-200 hover:text-blue-500"><i class='bx bx-link mr-2'></i> Integrations</a></li>
+                            <li><a href="#" class="flex items-center text-white hover:text-purple-400"><i class='bx bx-home mr-2'></i> Home</a></li>
+                            <li><a href="#" class="flex items-center text-white hover:text-purple-400"><i class='bx bx-info-circle mr-2'></i> About</a></li>
+                            <li><a href="#" class="flex items-center text-white hover:text-purple-400"><i class='bx bx-link mr-2'></i> Integrations</a></li>
                         </ul>
                     </nav>
                 </div>
-                <section id="blank-section" class="bg-white dark:bg-gray-900 flex-1">
+                <section id="blank-section" class="bg-gray-800 dark:bg-gray-900 flex-1">
                     <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
 
                     </div>
