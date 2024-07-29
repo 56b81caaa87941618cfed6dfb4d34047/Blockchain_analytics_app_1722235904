@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "add a sidebar with the navlinks home, about and Integrations"
+    },
+    {
+        "level": 1,
+        "task_description": "add a sidebar with the navlinks home, about and Integrations"
     }
 ]
